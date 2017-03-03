@@ -1,3 +1,3 @@
 # four-color-theorem
 
-Coq source files taken from [here](https://github.com/kik/Four-Color-Theorem-Maintenance.git)
+Coq source files taken from [here](https://goo.gl/y8Jo9Z)
