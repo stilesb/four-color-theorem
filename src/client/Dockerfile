@@ -1,1 +1,1 @@
-FROM stilesb:reflexfrp
+FROM stilesb/reflexfrp:1.0
