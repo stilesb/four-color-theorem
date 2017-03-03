@@ -1,2 +1,3 @@
 # four-color-theorem
-Four color theorem coq proof
+
+Coq source files taken from [here](https://github.com/kik/Four-Color-Theorem-Maintenance.git)
