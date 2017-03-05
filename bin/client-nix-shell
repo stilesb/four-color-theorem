@@ -1,0 +1,2 @@
+#!/bin/bash
+docker exec -it src_client_1 bash -c ". /home/robot/.nix-profile/etc/profile.d/nix.sh && nix-shell"

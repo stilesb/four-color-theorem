@@ -3,6 +3,14 @@ version: "2"
 services:
     coq:
         build: ./coq
+        command: tail -f /dev/null
+        volumes:
+            - ./coq/src:/opt/coq/src
 
     client:
         build: ./client
+        command: bash -c "cd /opt/client/src/Main.jsexe && python -m SimpleHTTPServer"
+        ports:
+            - 8000:8000
+        volumes:
+            - ./client/src:/opt/client/src
