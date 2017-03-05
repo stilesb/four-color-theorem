@@ -2,7 +2,7 @@
 
 # four-color-theorem-demo
 
-*Full-stack Four Color Theorem Coq proof Demo*
+*Full-stack Four Color Theorem Coq proof Demo (WIP)*
 
 ## Setup
 
