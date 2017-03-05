@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/stilesb/four-color-theorem.svg?branch=master)](https://travis-ci.org/stilesb/four-color-theorem)
 
-# four-color-theorem
+# four-color-theorem-demo
 
 *Full-stack Four Color Theorem Coq proof Demo*
 
@@ -19,9 +19,9 @@
 The client is written is in Haskell using Reflex-FRP. Development consists of:
 
 ```
-./bin/client-nix-shell
-cd /opt/client/src
-ghcjs Main.hs
+$ ./bin/client-nix-shell
+nix-shell$ cd /opt/client/src
+nix-shell$ ghcjs Main.hs
 ```
 
 ## Theorem Proving
