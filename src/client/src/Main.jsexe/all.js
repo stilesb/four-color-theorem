@@ -44469,7 +44469,7 @@ function h$$sw()
 function h$$sv()
 {
   h$bh();
-  var a = h$ustra("Reflex is:");
+  var a = h$ustra("Reflex-FRP is:");
   h$l2(a, h$textzm1zi2zi2zi1zm6Pphv4bzz3hHEAngNHxPNZZeZCDataziTextziInternalzizdfIsStringText);
   return h$ap_1_1_fast();
 };
@@ -44505,7 +44505,7 @@ function h$$sr()
 function h$$sq()
 {
   h$bh();
-  var a = h$ustra("Haskell Reflex-FRP Example");
+  var a = h$ustra("Four Color Theorem Demo");
   h$l2(a, h$textzm1zi2zi2zi1zm6Pphv4bzz3hHEAngNHxPNZZeZCDataziTextziInternalzizdfIsStringText);
   return h$ap_1_1_fast();
 };
