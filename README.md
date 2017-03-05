@@ -2,6 +2,8 @@
 
 # four-color-theorem
 
+*Full-stack Four Color Theorem Coq proof Demo*
+
 ## Setup
 
 **Requirements**
