@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/stilesb/four-color-theorem.svg?branch=master)](https://travis-ci.org/stilesb/four-color-theorem)
+[![Build Status](https://travis-ci.org/stilesb/four-color-theorem-demo.svg?branch=master)](https://travis-ci.org/stilesb/four-color-theorem-demo)
 
 # four-color-theorem-demo
 
